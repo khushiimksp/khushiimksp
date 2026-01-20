@@ -8,4 +8,4 @@ I’m actively building expertise in data analytics and business intelligence, w
 
 💡 Interests: Business Analytics | Strategy & Operations | Data-Driven Decision Making
 
-🤝 Open to: Collaborations, analytics projects, and problem-solving opportunities
+🤝 Open to: Collaborations, analytics projects and problem-solving opportunities
