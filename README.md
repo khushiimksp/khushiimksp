@@ -7,4 +7,5 @@ With a foundation in Electrical Engineering and a consistent record of academic 
 I’m actively building expertise in data analytics and business intelligence, working with tools such as Excel, Tableau and Power BI. I’m passionate about transforming data into actionable insights that support strategic decision-making.
 
 💡 Interests: Business Analytics | Strategy & Operations | Data-Driven Decision Making
+
 🤝 Open to: Collaborations, analytics projects, and problem-solving opportunities
